@@ -19,13 +19,13 @@ Above I present some projects that I've been worked on so far on 42 Porto Common
 | ![push-swap-badge](badges_img/push_swape.png) |   ![so-long-badge](badges_img/so_longe.png)   |         ![pipex-badge](badges_img/pipexe.png)         |
 | ![pts-ps](https://img.shields.io/badge/result-125%2F100-green) | ![pts-sl](https://img.shields.io/badge/result-125%2F100-green) | ![pts-ppx](https://img.shields.io/badge/result-125%2F100-green) |
 
-<!-- |[Philo](https://github.com/amauricoder/42_Philosophers)|
+|[Philosophers](https://github.com/amauricoder/42_Philosophers)|
 | :-------------------------------------------: |
-| ![push-swap-badge](badges_img/push_swape.png) |
-| ![pts-ps](https://img.shields.io/badge/result-125%2F100-green) |
+| ![push-swap-badge](badges_img/philosopherse.png) |
+| ![pts-ps](https://img.shields.io/badge/result-100%2F100-green) |
 
 If you are interested in know more about 42 schools and the learning method:
--->
+
 [![42_Network](badges_img/42_network.png)](https://www.42network.org/) <br>
 [Find me as aconceic on 42 intra!](https://profile.intra.42.fr/users/aconceic)
 
