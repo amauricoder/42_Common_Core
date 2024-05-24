@@ -8,7 +8,7 @@
 To enter at 42 school, we need to pass to a selective process called Piscine, that is a intensive training with the duration of 1 month.
 At 42 we are rigorous at evaluations, this makes our learning process much more powerful and prepare us more effectivelly for job market.
 
-Above I present some projects that I've been worked on so far on 42 Porto Common Core course. We use mostly C language.
+Below I present some projects that I've been worked on so far on 42 Porto Common Core course. We use mostly C language.
 |[Libft](https://github.com/amauricoder/42_libft)|[Ft_Prinft](https://github.com/amauricoder/42_ft_printf)|[Get_Next_Line](https://github.com/amauricoder/42_get_next_line)|
 | :-----------------------------------: | :-------------------------------------------: | :---------------------------------------------------: |
 | ![libft-badge](badges_img/libfte.png) | ![ft-printf-badge](badges_img/ft_printfe.png) | ![get-next-line-badge](badges_img/get_next_linee.png) |
