@@ -16,13 +16,19 @@ Below I present some projects that I've been worked on so far on 42 Porto Common
 
 |[Push_Swap](https://github.com/amauricoder/42_Push_Swap)|[So_Long](https://github.com/amauricoder/42_So_Long)|[Pipex](https://github.com/amauricoder/42_Pipex)|
 | :-------------------------------------------: | :-------------------------------------------: | :---------------------------------------------------: |
-| ![push-swap-badge](badges_img/push_swape.png) |   ![so-long-badge](badges_img/so_longe.png)   |         ![pipex-badge](badges_img/pipexe.png)         |
-| ![pts-ps](https://img.shields.io/badge/result-125%2F100-green) | ![pts-sl](https://img.shields.io/badge/result-125%2F100-green) | ![pts-ppx](https://img.shields.io/badge/result-125%2F100-green) |
+| ![push-swap-badge](badges_img/push_swape.png) | ![so-long-badge](badges_img/so_longe.png)   |         ![pipex-badge](badges_img/pipexe.png)         |
+| ![pts-ps](https://img.shields.io/badge/result-125%2F100-green) |![pts-sl](https://img.shields.io/badge/result-125%2F100-green) | ![pts-ppx](https://img.shields.io/badge/result-125%2F100-green) |
 
-|[Philosophers](https://github.com/amauricoder/42_Philosophers)|
-| :-------------------------------------------: |
-| ![push-swap-badge](badges_img/philosopherse.png) |
-| ![pts-ps](https://img.shields.io/badge/result-100%2F100-green) |
+| [Philosophers](https://github.com/amauricoder/42_Philosophers) | [Minishell](https://github.com/amauricoder/42_minishell) | [Cub3d](https://github.com/amauricoder/42_Cub3D) |
+| :-------------------------------------------: | :-------------------------------------------: | :---------------------------------------------------: |
+| ![philo-badge](badges_img/philosopherse.png) | ![mini-badge](badges_img/minishelle.png) | ![cube-badge](badges_img/cub3de.png) |
+| ![pts-philo](https://img.shields.io/badge/result-100%2F100-green) | ![pts-mini](https://img.shields.io/badge/result-101%2F100-green) | ![pts-cube](https://img.shields.io/badge/result-120%2F100-green) |
+
+| [NetPractice](https://github.com/amauricoder/42_NetPractice) | [CPP](https://github.com/amauricoder/42_CPP) |
+| :-------------------------------------------: | :---------------------------------------: |
+| ![net-badge](badges_img/netpracticee.png) | ![cpp-badge](badges_img/cppe.png) |
+| ![pts-net](https://img.shields.io/badge/result-100%2F100-green) | ![cpps-net](https://img.shields.io/badge/result-2%2F9-green) |
+
 
 If you are interested in know more about 42 schools and the learning method:
 
